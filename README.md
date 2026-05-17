@@ -9,7 +9,7 @@ implémentés en Python avec Pyomo, OR-Tools et LibreOffice Calc.
 
 ## Sujets traités
 1. Dimensionnement de Stock (EOQ) — LibreOffice Calc Solver
-2. Problème d'affectation — Google OR-Tools
+2. Problème d'affectation — OR-Tools
 3. Routage des camions d'eau — Pyomo + GLPK Solver
 
 ## Outils utilisés
