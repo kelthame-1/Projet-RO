@@ -21,12 +21,10 @@ for i in range(num_workers):
 
 
 for i in range(num_workers):
-    model.add_exactly_one([x[i, j] for j in range(num_tasks)])  # تم إضافة القوسين المربعين للتوضيح
-
+    model.add_exactly_one([x[i, j] for j in range(num_tasks)])
 
 for j in range(num_tasks):
-    model.add_exactly_one([x[i, j] for i in range(num_workers)]) # تم إضافة القوسين المربعين للتوضيح
-
+    model.add_exactly_one([x[i, j] for i in range(num_workers)]) 
 
 model.minimize(
     sum(costs[i][j] * x[i, j] 
