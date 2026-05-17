@@ -1,4 +1,4 @@
-# Projet de Recherche Opérationnelle 2026
+# Projet de Recherche Opérationnelle 
 
 Modélisation et résolution de trois problèmes d'optimisation 
 implémentés en Python avec Pyomo, OR-Tools et LibreOffice Calc.
