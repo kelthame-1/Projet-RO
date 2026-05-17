@@ -4,8 +4,8 @@ Modélisation et résolution de trois problèmes d'optimisation
 implémentés en Python avec Pyomo, OR-Tools et LibreOffice Calc.
 
 ## Contributeurs:
-- Emmekelthoume Sidaty — Matricule: XXXXX
-- Revea Bakry — Matricule: XXXXX
+- Emmekelthoume Sidaty — Matricule: C27092
+- Revea Bakry — Matricule: C22688
 
 ## Sujets traités
 1. **Dimensionnement de Stock (EOQ) — LibreOffice Calc Solver
@@ -26,7 +26,7 @@ implémentés en Python avec Pyomo, OR-Tools et LibreOffice Calc.
 - `Projet_RO.pdf` — Rapport final complet (généré via LaTeX)
 
 ## Résultats clés obtenus
-- **EOQ : Q = 244.95 unités | Coût total = 489.90 MRU
+- **EOQ :** Q* = 244.95 unités | Coût total = 489.90 MRU
 - **Affectation :** W1→T2, W2→T1, W3→T3, W4→T4 | Coût = 13 MRU
 - **Routage :** 0→1→2→3→4→6→5→0 | Distance = 101.00 km
 
