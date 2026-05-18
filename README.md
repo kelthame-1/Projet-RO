@@ -29,9 +29,3 @@ implémentés en Python avec Pyomo, OR-Tools et LibreOffice Calc.
 - **EOQ :** Q = 244.95 unités | Coût total = 489.90 MRU
 - **Affectation :** W1→T2, W2→T1, W3→T3, W4→T4 | Coût = 13 MRU
 - **Routage :** 0→1→2→3→4→6→5→0 | Distance = 101.00 km
-
-
-
-- **EOQ :** Q* = 244.95 unités | Coût total = 489.90 MRU
-- **Affectation :** W1→T2, W2→T1, W3→T3, W4→T4 | Coût = 13 MRU
-- **Routage :** 0→1→2→3→4→6→5→0 | Distance = 101.00 km
